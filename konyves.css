@@ -1,0 +1,43 @@
+body{
+    background-color: wheat;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.container {
+    background-color: burlywood;
+    width: 80%;
+    margin: 0px auto;
+}
+.container h1 {
+    text-align: center;
+}
+
+header {
+    height: 100px;
+}
+
+.container2 {
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+}
+footer{
+    text-align: center;
+    background-color: burlywood;
+    width: 80%;
+    margin: 0px auto;
+}
+.navbar {
+    background-color: rosybrown;
+    margin: 5px;
+}
+
+h1 {
+   font-size: 2vmax; 
+   margin: 5px;
+}
+thead {
+    font-size: 20px;
+}
+p {
+    font-size: 15px;
+}
